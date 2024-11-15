@@ -29,8 +29,7 @@ public class DoWhile1 {
 }
 
 > 현재 숫자는:10
-
-Process finished with exit code 0
+> Process finished with exit code 0
 
 
 do-while 최초 한 번은 실행
